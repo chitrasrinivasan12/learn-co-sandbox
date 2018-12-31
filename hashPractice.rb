@@ -1,4 +1,4 @@
-hash = {}
+~hash = {}
 
 #We want to create a birth registry to look up people
 #I should be able to give the registry a select_year

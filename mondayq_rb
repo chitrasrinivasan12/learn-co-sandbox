@@ -1,0 +1,14 @@
+# Monday Morning Challenge Question WARM UP:car::blue_car::racing_car:
+# Write code to create a new instance of a Vehicle object and make it honk
+
+#Start Here
+
+class Vehicle
+	def initialize(color, type)
+		@color = color
+		@type = type
+	end
+	def honk
+		puts "Beep!"
+	end
+end
